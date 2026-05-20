@@ -18,11 +18,15 @@ tags:
 ---
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 
+
+
 - Movement is the core of most systems and can make something as simple as traversing feel fun.
 - Players should be able to see, hear, and expect a motion as soon as an input is executed.
 - Movements should feel consistent to refine accuracy and skill as opposed to feeling random.
 - Moving around should feel dynamic and satisfying, and the system should be easy to use.
 - When travelling around, players shouldn’t be able to abuse the movement system to bypass everything, yet it shouldn’t feel like a chore to use.
+
+
 
 
 {{< /callout >}}
@@ -113,6 +117,20 @@ To fix the player feedback, we can just simply add more **cues** (**visual/audio
 
 These are the concepts that will take your movement system from a *good, fun* movement system to a *great, memorable* movement system; not required, but extremely useful for making your movement **stand out**.
 
+## Innovation
+
+The first step to make a unique and refreshing movement system is to make the mechanics themselves **unique and rarely done before**; in other words, **innovating**. These mechanics don't need to fundamentally be unheard of, but they should ideally be different enough to *feel* different. 
+
+There's no easy way to innovate, as it all stems from the idea phase and being able to make unique ideas. However, it's still something to keep in mind when forming the concept for your mechanic.
+
+Here's an example of innovating on a regular mechanic; the **strider** ability in **MIO: Memories In Orbit** turns a regular wall-climb into a spider-like mode that allows you climb quickly on *any* surface, on a limited supply of energy. 
+
+This innovates in multiple ways:
+
+* Allows you to climb on *any* surface, not very common
+* Combines a "sprint" with a wall-climb 
+* Limited energy turns wall-climbing into a resource, again not very common
+
 ## Expression
 
 **Expression** refers to when **players are given freedom in how they progress through a part; how they express themselves**. The key point is that the movement system is incredibly versatile, and it's up to the player to figure out how they want to use this versatile movement to progress. 
@@ -123,4 +141,6 @@ Movement tech is short for **movement techniques**, which are **higher-level tec
 
 Here's an example of movement tech in Hollow Knight: Silksong. This gif showcases regular sprinting first, before showcasing "dash jumping" and then "wavedashing"; all ways to move faster than regular.
 
-## Innovation
+{{< img src="https://lh3.googleusercontent.com/d/1DZyOMSqRtCGKyBq1PocrB_r7O7irLUzy" >}}
+
+The best way to incorporate movement tech is via playtesting, and finding out what kind of cool things you can do with your movement.
