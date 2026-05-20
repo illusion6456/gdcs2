@@ -125,6 +125,8 @@ There's no easy way to innovate, as it all stems from the idea phase and being a
 
 Here's an example of innovating on a regular mechanic; the **strider** ability in **MIO: Memories In Orbit** turns a regular wall-climb into a spider-like mode that allows you climb quickly on *any* surface, on a limited supply of energy. 
 
+{{< img src="" >}}
+
 This innovates in multiple ways:
 
 * Allows you to climb on *any* surface, not very common
