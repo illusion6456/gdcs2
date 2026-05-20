@@ -20,11 +20,13 @@ tags:
 
 
 
+
 - Movement is the core of most systems and can make something as simple as traversing feel fun.
 - Players should be able to see, hear, and expect a motion as soon as an input is executed.
 - Movements should feel consistent to refine accuracy and skill as opposed to feeling random.
 - Moving around should feel dynamic and satisfying, and the system should be easy to use.
 - When travelling around, players shouldn’t be able to abuse the movement system to bypass everything, yet it shouldn’t feel like a chore to use.
+
 
 
 
@@ -125,24 +127,38 @@ There's no easy way to innovate, as it all stems from the idea phase and being a
 
 Here's an example of innovating on a regular mechanic; the **strider** ability in **MIO: Memories In Orbit** turns a regular wall-climb into a spider-like mode that allows you climb quickly on *any* surface, on a limited supply of energy. 
 
-{{< img src="" >}}
+{{< img src="https://lh3.googleusercontent.com/d/1g5c_L-NxCtGyffhcjLwWvpfX8vxIDSMC" >}}
 
 This innovates in multiple ways:
 
 * Allows you to climb on *any* surface, not very common
 * Combines a "sprint" with a wall-climb 
 * Limited energy turns wall-climbing into a resource, again not very common
+* It *feels* different; the "function" is the same, but you aren't jumping off and onto walls like regular games.
 
 ## Expression
 
-**Expression** refers to when **players are given freedom in how they progress through a part; how they express themselves**. The key point is that the movement system is incredibly versatile, and it's up to the player to figure out how they want to use this versatile movement to progress. 
+**Expression** refers to when **players are given freedom in how they progress through a part; how they express themselves**. The key point is that the movement system is incredibly versatile, and it's up to the player to figure out how they want to use this versatile movement to progress. Here's the fundamentals of versatile and expressive movement:
+
+* **Innovation.** A new mechanic creates opportunities for creators to incorporate freedom and players to learn and express themselves. You won't be able to create expression with the usual mechanics everyone is used to.
+* **Simple, with lots of interactions**. A simple component is able to be used in multiple different ways, and letting the player choose how to combine simple mechanics allows them to express themselves.
+* **Level design**. Rooms designed around one critical path, such as a majority of rooms in Celeste, tend to limit expression and focus more on puzzles. However - this guide is on movement, so let's get back to that.
+* **Sauce**. It's hard to describe, but it's simple; if your movement feels really sick and saucy, players *will* want to do cool things with the movement, and that leads to expression.
+
+Expression in some ways is like a puzzle where players, while figuring out the solution, create their own unique and personal path through the section. As such, most expressive platformers tend to seem very barebones; you have simple movement mechanics, a starting point, and a vague destination. It's not instantly clear how to progress until you throw yourself at the wall and figure it out on the fly. 
+
+Alongside extremely fun mechanics, this is what most people call **schmoving**; when you're set free and get to do *insanely cool things that feel personal*, rather than being guided through a set path by the creator.
 
 ## Movement Tech
 
 Movement tech is short for **movement techniques**, which are **higher-level techniques within the movement system that allows the player to do more things**. While previously we went over *creative expression*, movement tech creates *skill expression* for players to learn even after completing the game.
 
-Here's an example of movement tech in Hollow Knight: Silksong. This gif showcases regular sprinting first, before showcasing "dash jumping" and then "wavedashing"; all ways to move faster than regular.
+Here's a quick example of movement tech in Hollow Knight: Silksong. This gif showcases regular sprinting first, before showcasing "dash jumping" and then "wavedashing"; all ways to move faster than regular movement.
 
 {{< img src="https://lh3.googleusercontent.com/d/1DZyOMSqRtCGKyBq1PocrB_r7O7irLUzy" >}}
 
-The best way to incorporate movement tech is via playtesting, and finding out what kind of cool things you can do with your movement.
+The best way to incorporate movement tech is via playtesting, and finding out what kind of cool things you can do with your movement. It's not easy, but creative minds and a good community will *always* find movement tech; you just need to find it first.
+
+In addition to creating a small bit of expression (the player is doing cool things separate from the creator's guidance), what matters most is the **skill expression**. Most tech are too difficult to pull off in a blind playthrough, which adds more things to learn after the game, creating replayability and ultimately making the movement more memorable. The sense of difficulty also adds to the sense of accomplishment; mastering a difficult technique *feels good*. 
+
+Additionally, a majority of
